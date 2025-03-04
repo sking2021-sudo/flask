@@ -1,3 +1,3 @@
-This is where we will be learning Faask and all its dependencies
+This is where we will be learning Flask and all its dependencies
 
 Happy Learning!
